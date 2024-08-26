@@ -11,3 +11,26 @@ class Controller extends BaseController
 {
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
 }
+
+Route::get('/', function () {
+    return view('index');
+});
+
+Route::get('/confirm', function () {
+    return view('index');
+});
+Route::get('/thanks', function () {
+    return view('index');
+});
+
+Route::get('/admin', function () {
+    return view('index');
+});
+
+Route::get('/register', function () {
+    return view('index');
+});
+
+Route::get('/login', function () {
+    return view('index');
+});
