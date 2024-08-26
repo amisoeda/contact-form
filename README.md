@@ -31,6 +31,4 @@ http://localhost
 
 phpMyAdmin:http://localhost:8080/
 
-origin  https://github.com/amisoeda/contact-form.git (fetch)
-
-origin  https://github.com/amisoeda/contact-form.git (push)
+https://vscode.dev/github/amisoeda/contact-form/blob/main
