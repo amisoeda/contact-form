@@ -30,3 +30,7 @@ Docker27.1.1
 http://localhost
 
 phpMyAdmin:http://localhost:8080/
+
+origin  https://github.com/amisoeda/contact-form.git (fetch)
+
+origin  https://github.com/amisoeda/contact-form.git (push)
