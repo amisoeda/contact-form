@@ -1,0 +1,97 @@
+/* ユーザ登録ページ用のcss */
+.header {
+    width: 1512px;
+    height: 99px;
+    background: #FFFFFF;
+}
+
+.header__logo {
+    width: 1512px;
+    height: 100px;
+    font-family: Inika;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 52.12px;
+    text-align: center;
+    background: #8B7969;
+}
+
+.login-form__heading {
+    width: 100px;
+    height: 34px;
+    top: 33px;
+    left: 1316px;
+    border: 1px;
+    border: 1px;
+    solid: #D9C6B5;
+}
+
+.register__content {
+    background-color: #D9C6B5;
+}
+
+.register-form__heading {
+    width: 134px;
+    height: 46px;
+    top: 159px;
+    left: 689px;
+    font-family: Inika;
+    font-size: 35px;
+    font-weight: 400;
+    line-height: 45.61px;
+    text-align: left;
+    background: #8B7969;
+}
+
+.form {
+    width: 736px;
+    height: 644px;
+    top: 264px;
+    left: 388px;
+    border-radius: 10px;
+    border: 1px;
+    background: #FFFFFF;
+    border: 1px;
+    solid: #C5B9B0
+}
+
+.form__label--item {
+    width: 75px;
+    height: 33px;
+    font-family: Inika;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 32.57px;
+    text-align: left;
+    background: #8B7969;
+}
+
+.form__group-content {
+    width: 445px;
+    height: 55px;
+    top: 47px;
+    background: #F4F4F4;
+}
+
+.form__input--text {
+    font: 91px;
+    height: 18px;
+    top: 66px;
+    left: 26px;
+    font-family: Inika;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18.24px;
+    text-align: left;
+    background: #BEB1A6;
+}
+
+.form__button {
+    width: 内包 (120px)px;
+    height: 内包 (46px)px;
+    top: 800px;
+    left: 696px;
+    padding: 10px 40px 10px 40px;
+    gap: 10px;
+    background: #82756A;
+}

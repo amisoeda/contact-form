@@ -1,0 +1,100 @@
+/* ログインページ用のcss */
+.header {
+    width: 1512px;
+    height: 99px;
+    background: #FFFFFF;
+}
+
+.header__logo {
+    width: 1512px;
+    height: 100px;
+    font-family: Inika;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 52.12px;
+    text-align: center;
+    background: #8B7969;
+}
+
+.header__light {
+    width: 100px;
+    height: 34px;
+    top: 33px;
+    left: 1316px;
+    border: 1px;
+    border: 1px;
+    solid: #D9C6B5;
+}
+
+.login__content {
+    background-color: #D9C6B5;
+}
+
+.login-form__heading {
+    width: 93px;
+    height: 46px;
+    top: 162px;
+    left: 710px;
+    font-family: Inika;
+    font-size: 35px;
+    font-weight: 400;
+    line-height: 45.61px;
+    text-align: left;
+    background: #8B7969;
+}
+
+.form {
+    width: 736px;
+    height: 579px;
+    top: 264px;
+    left: 388px;
+    border-radius: 10px;
+    border: 1px;
+    background: #FFFFFF;
+    border: 1px;
+    solid: #C5B9B0;
+}
+
+.form__label--item {
+    width: 175px;
+    height: 33px;
+    top: 362px;
+    left: 534px;
+    font-family: Inika;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 32.57px;
+    text-align: left;
+    background: #8B7969;
+}
+
+.form__group-content {
+    width: 445px;
+    height: 55px;
+    top: 409px;
+    left: 534px;
+    background: #F4F4F4;
+}
+
+.form__input--text {
+    width: 142px;
+    height: 18px;
+    top: 428px;
+    left: 561px;
+    font-family: Inika;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18.24px;
+    text-align: left;
+    background: #BEB1A6;
+}
+
+.form__button {
+    width: 内包 (160px)px;
+    height: 内包 (46px)px;
+    margin-top: 708px;
+    margin-left: 676px;
+    padding: 10px 40px;
+    gap: 10px;
+    background: #82756A;
+}

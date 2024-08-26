@@ -1,0 +1,42 @@
+/* お問い合わせフォーム確認ページ用のcss */
+.header {
+    width: 1512px;
+    height: 100px;
+    border: 1px;
+    solid: #E0DFDE;
+}
+
+.header__logo {
+    width: 1509.01px;
+    height: 100px;
+    left: 2.99px;
+    font-family: Inika;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 52.12px;
+    text-align: center;
+    color: #8B7969;
+}
+
+.confirm__heading {
+    width: 133px;
+    height: 43px;
+    top: 150px;
+    left: 694px;
+    font-family: Inika;
+    font-size: 35px;
+    font-weight: 400;
+    line-height: 45.61px;
+    text-align: left;
+    color: #8B7969;
+}
+
+.confirm-table {
+    width: 972px;
+    height: 606px;
+    top: 247px;
+    left: 273px;
+    border: 1px;
+    solid: #E0DFDE;
+    background: #FFFFFF;
+}

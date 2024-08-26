@@ -1,0 +1,13 @@
+/* サンクスページ用のcss */
+.thanks__content {
+    width: 1381px;
+    height: 365px;
+    top: 319px;
+    left: 66px;
+    font-family: Inika;
+    font-size: 280px;
+    font-weight: 400;
+    line-height: 364px;
+    text-align: left;
+    background: #8B79690D;
+}
